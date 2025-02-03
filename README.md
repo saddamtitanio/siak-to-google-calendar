@@ -12,7 +12,7 @@ This project utilizes the **Google Calendar API** and **Selenium** to seamlessly
 - Required libraries (install via `requirements.txt`)
 - A Google Cloud account
 
-## 🔐 Obtaining the credentials to communicate with Google Calendar
+## 🔐 Obtaining Service Account Credentials to Communicate with Google Calendar
 #### 1. Setting Up Google Calendar API
 
 1. **Go to [Google Cloud Console](https://console.cloud.google.com/):**  
