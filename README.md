@@ -8,7 +8,7 @@ This project utilizes the **Google Calendar API** and **Selenium** to seamlessly
 - Update the `USERNAME` and `PASSWORD` fields in the `userdata.txt` file located in the `config` folder.
 
 ### 1️⃣ Prerequisites
-- Python 3.x (if using Python)
+- Python 3.x
 - Required libraries (install via `requirements.txt`)
 - A Google Cloud account
 
