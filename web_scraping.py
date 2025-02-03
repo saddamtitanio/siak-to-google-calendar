@@ -90,14 +90,3 @@ def retrieve_courses():
     except Exception as e:
         logging.error(f"An error occurred in the retrieve_courses function: {e}")
         raise
-
-
-if __name__ == "__main__":
-    try:
-        courses = retrieve_courses()
-        if courses:
-            logging.info("Courses retrieved successfully:")
-            for course in courses:
-                logging.info(course)
-    except Exception as e:
-        logging.error(f"Script failed: {e}")
