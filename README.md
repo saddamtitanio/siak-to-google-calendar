@@ -37,7 +37,7 @@ This project utilizes the **Google Calendar API** and **Selenium** to seamlessly
 ![alt text](https://github.com/saddamtitanio/siak-to-google-calendar/blob/main/docs/image.png)
 - Go to [Google Calendar](https://calendar.google.com/).
 - Open calendar settings → **Share with specific people**.
-- Add the **Service Account email** (found in the JSON key file) with desired permissions.
+- Add the **Service Account email** (found in the JSON key file) and set the permissions to `Make changes to events`.
 - Copy the calendar ID in the `Integrate calendar` section into `config/userdata.txt` file
 ---
 
