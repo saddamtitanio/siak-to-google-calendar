@@ -38,7 +38,7 @@ This project utilizes the **Google Calendar API** and **Selenium** to seamlessly
 - Go to [Google Calendar](https://calendar.google.com/).
 - Open calendar settings → **Share with specific people**.
 - Add the **Service Account email** (found in the JSON key file) with desired permissions.
-- Copy the calendar ID in the `Integrate Calendar` section into `config/userdata.txt` file
+- Copy the calendar ID in the `Integrate calendar` section into `config/userdata.txt` file
 ---
 
 ### 📦 Install Dependencies
